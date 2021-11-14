@@ -1,9 +1,4 @@
-<myadscontroler>
-  <!--  appver="1.0.13", isturnoffallads="0", change it after live-->
-  <!--  '0'  is False, '1' True || appver="1.0.13" change it after live-->
-  <!--  'isneed'=0 is False, 1 is True & 'menuadlink_land'=MENU AD LANDSCAPE_Image LINK, 'menuadlink_port'=MENU AD PORTRAIT_Image LINK  -->
-  <!--  'isneed'=0 is False, 1 is True & 'promocodes'=promocodes separated by ','commas & promoreward=promo reward values separated by ','commas and  both    -->
-  <!--   1-AdMob, 2-Unity, 3-IronSource -->  
+<myadscontroler>  
   <update liveappver="1.0.15"/>
   <adstatus isturnoffallads="0" appver="1.0.13"/>
   <debug isneed="0"/>  
