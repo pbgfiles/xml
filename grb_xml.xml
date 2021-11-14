@@ -3,7 +3,7 @@
   <adstatus isturnoffallads="0" appver="1.0.13"/>
   <debug isneed="0"/>  
   <adcanshow showpages="4_5_6_7"/>
-  <adrotation isneed="1" adrotationorder_interstitial ="111" videorotaionisneed="1" adrotationorder_rewardvideo="333"/>
+  <adrotation isneed="1" adrotationorder_interstitial ="222" videorotaionisneed="1" adrotationorder_rewardvideo="222"/>
   <bannerad isneed="1" bannerrfreshrate="5000"/>
   
   <addelay adtoaddelay="30" addelay_lc="0.1" addelay_lf="0.1"/>
