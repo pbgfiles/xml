@@ -1,6 +1,6 @@
 <myadscontroler>  
   <update liveappver="1.0.22"/>
-  <adstatus isturnoffallads="0" adsoffappver="1.0.22"/>
+  <adstatus isturnoffallads="1" adsoffappver="1.0.13"/>
   <debug isneed="0"/>  
   <adcanshow showpages="4_5_6_7"/>
   <adrotation isneed="1" adrotationorder_interstitial ="222" videorotaionisneed="1" adrotationorder_rewardvideo="222"/>
