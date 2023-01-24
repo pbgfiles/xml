@@ -2,6 +2,6 @@
  
   <!--  ONLY FOR CALENDAR -->
   <!--  '0'  is False, '1' True -->
-  <ownersobj owner_parent_show = "1" owner_pic_show = "1"/>
+  <ownersobj owner_parent_show = "1" owner_pic_show = "0"/>
   
 </myadscontroler>
