@@ -3,5 +3,6 @@
   <!--  '0'  is False, '1' True-->
   <ownersobj owner_parent_show = "1" owner_pic_show = "1"/>
   <!--  "weekdaystartinmonth-1stDay-sun=0,mon=1,tue=3,wed=3,thu=4,fri=5,sat=6 || 7 just ignore in below numbers"-->
-  <weekdaystartinmonth startday = "7_3_6_6_2_4_0_2_5_1_3_6_1"/>  
+  <weekdaystartinmonth startday = "7_4_0_0_3_5_1_3_6_2_4_0_2"/>
 </myadscontroler>
+
